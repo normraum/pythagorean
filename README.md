@@ -1,2 +1,2 @@
 # pythagorean
-Pythagorean theorem in Haskell (homewoer for Haskell cource)
+Pythagorean theorem in Haskell (homework for Haskell cource)
